@@ -1,3 +1,6 @@
+---
+title: Introduction to C++ 11
+---
 # Introduction to C++ 11
 
 The C++ language and standard library continue to evolve and progress.  The C++ version names take the year that the standard was approved, in this case 2011.

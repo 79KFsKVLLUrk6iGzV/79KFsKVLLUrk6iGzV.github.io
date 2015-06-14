@@ -1,3 +1,6 @@
+---
+title: Templates
+---
 # Templates
 
 Templates are a huge topic.  We're not going to cover templates in great detail, but hopefully this should be a good introduction so you're able to use most templates written by others and write simple templates of your own.

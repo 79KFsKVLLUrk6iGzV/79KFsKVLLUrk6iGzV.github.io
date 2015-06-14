@@ -1,3 +1,6 @@
+---
+title: Member Types
+---
 # Member Types
 
 Classes can contain also contain types.  Member types are frequently called *nested* types.  So we might have a nested class or a nested enum.

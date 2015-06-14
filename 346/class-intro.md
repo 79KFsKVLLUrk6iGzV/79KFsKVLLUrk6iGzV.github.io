@@ -1,4 +1,7 @@
-# Class Basics
+---
+title: Class Intro
+---
+# Class Intro
 
 Let's start to look at how to use classes and objects.  At first we will consider concrete types.  These types are designed to model values.  This is called class-based or value-oriented programming.  This is really the basis of object-orientated programming.
 

@@ -1,3 +1,6 @@
+---
+title: Mutability
+---
 # Mutability
 
 Values in C++ can be either *mutable* (changeable, variable) or *immutable* (unchangeable, constant, const).  C++ contains very powerful and useful mechanisms for expressing mutability.

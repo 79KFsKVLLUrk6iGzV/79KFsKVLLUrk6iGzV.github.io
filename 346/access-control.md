@@ -1,3 +1,6 @@
+---
+title: Access Control
+---
 # Access Control
 
 With our Date struct there are no restrictions on how it can be used externally.  We might want to specify an interface that defines how our type may be used.  This interface can hide the specifics of how our type is implemented.

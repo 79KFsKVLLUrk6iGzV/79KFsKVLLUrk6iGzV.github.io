@@ -1,3 +1,6 @@
+---
+title: Move
+---
 # Move
 
 We now know how to write types that can safely be [copied](copying.html) (or at least types that forbid copying when it isn't safe), but we still have one last problem.  This problem is a lot more subtle than the disastrous problems we saw earlier.

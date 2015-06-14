@@ -1,3 +1,6 @@
+---
+title: Properties
+---
 # Properties
 
 A common pattern in OOP is to expose data member fields through methods.  We sometimes refer to these as properties.  Many OOP languages have direct language support for properties, but C++ does not.  Properties are still a useful way of thinking about and modeling classes even in C++.

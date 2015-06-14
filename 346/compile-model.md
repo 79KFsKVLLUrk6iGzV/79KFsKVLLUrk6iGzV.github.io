@@ -1,3 +1,6 @@
+---
+title: C/C++ Compilation Model
+---
 # C/C++ Compilation Model
 
 When compiling C/C++ programs we often feed a list of .c/.cpp/.cc files to g++ and have it produce an output program.

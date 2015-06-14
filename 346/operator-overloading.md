@@ -1,3 +1,6 @@
+---
+title: Operator Overloading
+---
 # Operator Overloading
 
 C++ supports something called *operator overloading*.  This provides a way to write user-defined types that support built-in operators (e.g. +, -, ++, ...).

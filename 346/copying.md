@@ -1,3 +1,6 @@
+---
+title: Copy
+---
 # Copy
 
 As we [saw earlier](default-copying.html), object in C++ can be copied.

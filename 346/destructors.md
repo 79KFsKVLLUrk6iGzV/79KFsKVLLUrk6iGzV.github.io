@@ -1,3 +1,6 @@
+---
+title: Destructors
+---
 # Destructors
 
 We can also define special methods that can be used for cleanup.  Destructors are automatically called when the object is destroyed (when it goes out of scope or is deleted).  Since destructors can be thought of as the complement of constructors, they use the same basic syntax except with the complement operator ~.

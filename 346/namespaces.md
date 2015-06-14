@@ -1,3 +1,6 @@
+---
+title: Namespaces
+---
 # Namespaces
 
 C++ supports a feature called namespaces.  The primary purpose of namespaces is to support combining libraries written by different groups into a single program.

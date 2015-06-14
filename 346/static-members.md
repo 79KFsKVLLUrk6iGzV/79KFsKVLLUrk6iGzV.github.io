@@ -1,3 +1,6 @@
+---
+title: Static Members
+---
 # Static Members
 
 We can specify members that are part of the class, but not specific to any instance.

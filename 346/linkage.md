@@ -1,3 +1,6 @@
+---
+title: Linkage
+---
 # Linkage
 
 ## Declaring vs Defining

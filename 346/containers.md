@@ -1,3 +1,6 @@
+---
+title: Containers
+---
 # Containers
 
 We can define classes that hold a set of values.  We typically call these classes *containers*.  The C++ standard library defines a large variety of containers (we'll see those later) and we can define our own.

@@ -1,3 +1,6 @@
+---
+title: hello (translation unit)
+---
 ```c++
 # 1 "hello.cpp"
 # 1 "<built-in>"

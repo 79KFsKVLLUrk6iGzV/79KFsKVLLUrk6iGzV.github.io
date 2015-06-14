@@ -1,3 +1,6 @@
+---
+title: Self-Reference (this)
+---
 # Self-Reference (this)
 
 In non-static member functions we can access the instance from which the method was invoked via the **this** pointer.  The this pointer is read-only.  Remember that class members implicitly have a reference to their own instance.  The this pointer is an explicit reference.  *Normally you do not need to use the this pointer*, but it is occasionally useful.

@@ -1,3 +1,6 @@
+---
+title: Definition Order
+---
 # Definition Order
 
 Classes in C++ allow members to be written in any order.  Within a class we can use a member variable or method of that class before it is defined.  For example:

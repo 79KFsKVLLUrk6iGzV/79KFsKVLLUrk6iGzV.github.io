@@ -1,3 +1,6 @@
+---
+title: Methods
+---
 # Methods
 
 Methods define operations that an instance of a class can perform.

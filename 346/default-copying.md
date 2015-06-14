@@ -1,3 +1,6 @@
+---
+title: Default Copying
+---
 # Default Copying
 
 By default objects support copying.  The default way of copying an object is to simply copy each of its members.  We can disallow copying or customize what happens during a copy, but we'll get to that later.

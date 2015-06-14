@@ -1,3 +1,6 @@
+---
+title: Run-Time Type Information
+---
 # Run-Time Type Information
 
 Given a hierarchy of classes such as the following:

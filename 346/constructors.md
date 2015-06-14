@@ -1,3 +1,6 @@
+---
+title: Constructors
+---
 # Constructors
 
 Instead of using a function like init in the previous examples to handle initialization, we can define a special methods specifically for initialization.  These methods are known as *constructors*.

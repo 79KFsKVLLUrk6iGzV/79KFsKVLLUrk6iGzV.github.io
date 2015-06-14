@@ -1,3 +1,6 @@
+---
+title: Topic Map
+---
 # Topic Map
 
 <div id="svg">

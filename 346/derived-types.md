@@ -1,3 +1,6 @@
+---
+title: Derived Types
+---
 # Derived Types
 
 We often build software systems with concepts that exist in the world around us.  A system like YouTube represents ideas like videos and users.  A system like WebAdvisor models concepts like courses, students, faculty.

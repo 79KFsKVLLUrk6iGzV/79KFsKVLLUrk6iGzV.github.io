@@ -1,3 +1,6 @@
+---
+title: Function Pointers
+---
 # Function Pointers
 
 ## Background

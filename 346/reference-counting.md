@@ -1,3 +1,6 @@
+---
+title: Reference Counting
+---
 # Reference Counting
 
 We've already looked at operator overloading and templates, but they can be combined to do some pretty interesting things.
