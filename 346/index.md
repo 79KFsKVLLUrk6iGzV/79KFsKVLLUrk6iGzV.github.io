@@ -1,6 +1,8 @@
-## CSC-346 Object-Oriented Programming
+---
+title: CSC-346 OOP
+---
 
-**Midterm Exam: Friday, March 6**
+## CSC-346 Object-Oriented Programming
 
 - [Syllabus](syllabus.html)
 - [Grades](grades.html)
