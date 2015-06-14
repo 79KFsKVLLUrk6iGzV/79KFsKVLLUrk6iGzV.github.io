@@ -4,8 +4,6 @@ title: CSC-346 OOP
 
 ## CSC-346 Object-Oriented Programming
 
-- [Syllabus](syllabus.html)
-- [Grades](grades.html)
 - Assignments
     1. [Assignment #1](assignment1.html)
     2. [Assignment #2](assignment2.html) \[[tests](trace-tests.cpp)\]
